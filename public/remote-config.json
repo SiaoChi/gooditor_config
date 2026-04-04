@@ -1,16 +1,16 @@
 {
-  "ios_min_version": "1.0.4",
-  "ios_latest_version": "1.0.4",
+  "ios_min_version": "1.0.5",
+  "ios_latest_version": "1.0.5",
   "update_description": {
-    "zh-TW": "• 修復 badge 水平 padding 在輸出圖偏大的問題",
-    "zh-Hans": "• 修复 badge 水平 padding 在导出图片偏大的问题",
-    "en": "• Fixed badge padding appearing too wide in exported images",
-    "ja": "• エクスポート画像でバッジのパディングが広すぎる問題を修正",
-    "ko": "• 내보낸 이미지에서 배지 패딩이 너무 넓게 표시되는 문제 수정",
-    "fr": "• Correction du rembourrage du badge trop large dans les images exportées",
-    "de": "• Badge-Abstand in exportierten Bildern zu groß — behoben",
-    "th": "• แก้ไขปัญหา padding ของ badge ที่กว้างเกินไปในภาพที่ส่งออก",
-    "vi": "• Sửa lỗi padding badge quá rộng trong ảnh xuất",
-    "es": "• Corrección del relleno del badge demasiado ancho en imágenes exportadas"
+    "zh-TW": "• 修復輸出圖文字斷行與預覽不一致的問題\n• 修復版本控制功能",
+    "zh-Hans": "• 修复导出图片文字换行与预览不一致的问题\n• 修复版本控制功能",
+    "en": "• Fixed text line breaks in exported images not matching the preview\n• Version control improvements",
+    "ja": "• エクスポート画像の改行がプレビューと一致しない問題を修正\n• バージョン管理機能の改善",
+    "ko": "• 내보낸 이미지의 줄바꿈이 미리보기와 다른 문제 수정\n• 버전 관리 기능 개선",
+    "fr": "• Correction des sauts de ligne dans les images exportées\n• Améliorations du contrôle de version",
+    "de": "• Zeilenumbrüche im Export stimmen nun mit der Vorschau überein\n• Verbesserungen der Versionskontrolle",
+    "th": "• แก้ไขการตัดบรรทัดในภาพที่ส่งออกไม่ตรงกับตัวอย่าง\n• ปรับปรุงระบบควบคุมเวอร์ชัน",
+    "vi": "• Sửa lỗi xuống dòng trong ảnh xuất không khớp với xem trước\n• Cải thiện tính năng kiểm soát phiên bản",
+    "es": "• Corrección de saltos de línea en imágenes exportadas\n• Mejoras en el control de versiones"
   }
 }
