@@ -1,5 +1,5 @@
 {
-  "ios_min_version": "1.0.4",
+  "ios_min_version": "1.0.5",
   "ios_latest_version": "1.0.4",
   "update_description": {
     "zh-TW": "• 修復 badge 水平 padding 在輸出圖偏大的問題",
