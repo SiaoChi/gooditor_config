@@ -1,0 +1,16 @@
+{
+  "ios_min_version": "1.0.4",
+  "ios_latest_version": "1.0.4",
+  "update_description": {
+    "zh-TW": "• 修復 badge 水平 padding 在輸出圖偏大的問題",
+    "zh-Hans": "• 修复 badge 水平 padding 在导出图片偏大的问题",
+    "en": "• Fixed badge padding appearing too wide in exported images",
+    "ja": "• エクスポート画像でバッジのパディングが広すぎる問題を修正",
+    "ko": "• 내보낸 이미지에서 배지 패딩이 너무 넓게 표시되는 문제 수정",
+    "fr": "• Correction du rembourrage du badge trop large dans les images exportées",
+    "de": "• Badge-Abstand in exportierten Bildern zu groß — behoben",
+    "th": "• แก้ไขปัญหา padding ของ badge ที่กว้างเกินไปในภาพที่ส่งออก",
+    "vi": "• Sửa lỗi padding badge quá rộng trong ảnh xuất",
+    "es": "• Corrección del relleno del badge demasiado ancho en imágenes exportadas"
+  }
+}
