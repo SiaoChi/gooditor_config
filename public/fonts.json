@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "fonts": [
+    {
+      "id": "zihunBianTaoTi",
+      "displayNames": {
+        "zh-Hant": "扁桃體",
+        "zh-Hans": "扁桃体",
+        "en": "ZiHun BianTaoTi",
+        "ja": "扁桃体"
+      },
+      "license": {
+        "name": "Free for commercial use (ZiHun)",
+        "url": "https://www.maoken.com/freefonts/18575.html"
+      },
+      "variants": [
+        {
+          "id": "zihunBianTaoTi",
+          "postScriptName": "zihunbiantaoti",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/%E6%89%81%E6%A1%83%E9%AB%94%20.ttf",
+          "fileSize": 9519112
+        }
+      ]
+    },
+    {
+      "id": "sourceHanSerifTC",
+      "displayNames": {
+        "zh-Hant": "思源宋體",
+        "zh-Hans": "思源宋体",
+        "en": "Source Han Serif TC",
+        "ja": "源ノ明朝"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/adobe-fonts/source-han-serif"
+      },
+      "variants": [
+        {
+          "id": "sourceHanSerifTC.regular",
+          "postScriptName": "SourceHanSerifTC-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/SourceHanSerif-Regular.ttc",
+          "fileSize": 24810724,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "sourceHanSerifTC.medium",
+          "postScriptName": "SourceHanSerifTC-Medium",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/SourceHanSerif-Medium.ttc",
+          "fileSize": 25086944,
+          "weightNames": {
+            "zh-Hant": "中等",
+            "zh-Hans": "中等",
+            "en": "Medium",
+            "ja": "ミディアム"
+          }
+        },
+        {
+          "id": "sourceHanSerifTC.bold",
+          "postScriptName": "SourceHanSerifTC-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/SourceHanSerif-Bold.ttc",
+          "fileSize": 25880940,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        },
+        {
+          "id": "sourceHanSerifTC.heavy",
+          "postScriptName": "SourceHanSerifTC-Heavy",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/SourceHanSerif-Heavy.ttc",
+          "fileSize": 24113276,
+          "weightNames": {
+            "zh-Hant": "特黑",
+            "zh-Hans": "特黑",
+            "en": "Heavy",
+            "ja": "ヘビー"
+          }
+        }
+      ]
+    }
+  ]
+}
