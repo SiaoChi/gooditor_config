@@ -1,16 +1,16 @@
 {
   "ios_min_version": "1.0.5",
-  "ios_latest_version": "1.0.5",
+  "ios_latest_version": "1.0.10",
   "update_description": {
-    "zh-TW": "• 修復輸出圖文字斷行與預覽不一致的問題\n• 修復版本控制功能",
-    "zh-Hans": "• 修复导出图片文字换行与预览不一致的问题\n• 修复版本控制功能",
-    "en": "• Fixed text line breaks in exported images not matching the preview\n• Version control improvements",
-    "ja": "• エクスポート画像の改行がプレビューと一致しない問題を修正\n• バージョン管理機能の改善",
-    "ko": "• 내보낸 이미지의 줄바꿈이 미리보기와 다른 문제 수정\n• 버전 관리 기능 개선",
-    "fr": "• Correction des sauts de ligne dans les images exportées\n• Améliorations du contrôle de version",
-    "de": "• Zeilenumbrüche im Export stimmen nun mit der Vorschau überein\n• Verbesserungen der Versionskontrolle",
-    "th": "• แก้ไขการตัดบรรทัดในภาพที่ส่งออกไม่ตรงกับตัวอย่าง\n• ปรับปรุงระบบควบคุมเวอร์ชัน",
-    "vi": "• Sửa lỗi xuống dòng trong ảnh xuất không khớp với xem trước\n• Cải thiện tính năng kiểm soát phiên bản",
-    "es": "• Corrección de saltos de línea en imágenes exportadas\n• Mejoras en el control de versiones"
+    "zh-TW": "• 新增鍵盤功能教學，快速上手自訂鍵盤\n• 新增模板總覽，一次瀏覽所有模板\n• 介面優化，操作更順手",
+    "zh-Hans": "• 新增键盘功能教学，快速上手自定义键盘\n• 新增模板总览，一次浏览所有模板\n• 界面优化，操作更顺手",
+    "en": "• Added a keyboard tutorial to help you get started with custom keyboards\n• Added a template overview to browse all templates at once\n• Interface improvements for smoother operation",
+    "ja": "• キーボード機能のチュートリアルを追加し、カスタムキーボードをすぐに使いこなせます\n• テンプレート一覧を追加し、すべてのテンプレートを一度に閲覧できます\n• インターフェースを最適化し、より使いやすくなりました",
+    "ko": "• 키보드 기능 튜토리얼을 추가하여 커스텀 키보드를 빠르게 시작할 수 있습니다\n• 템플릿 모아보기를 추가하여 모든 템플릿을 한 번에 둘러볼 수 있습니다\n• 인터페이스를 개선하여 조작이 더 편해졌습니다",
+    "fr": "• Ajout d'un tutoriel sur le clavier pour prendre en main les claviers personnalisés\n• Ajout d'un aperçu des modèles pour parcourir tous les modèles d'un coup\n• Améliorations de l'interface pour une utilisation plus fluide",
+    "de": "• Neues Tastatur-Tutorial für den schnellen Einstieg in benutzerdefinierte Tastaturen\n• Neue Vorlagenübersicht, um alle Vorlagen auf einen Blick zu durchsuchen\n• Oberflächenverbesserungen für eine reibungslosere Bedienung",
+    "th": "• เพิ่มบทแนะนำฟีเจอร์คีย์บอร์ด เริ่มใช้คีย์บอร์ดที่กำหนดเองได้อย่างรวดเร็ว\n• เพิ่มภาพรวมเทมเพลต เรียกดูเทมเพลตทั้งหมดได้ในครั้งเดียว\n• ปรับปรุงอินเทอร์เฟซ ใช้งานได้ลื่นไหลยิ่งขึ้น",
+    "vi": "• Thêm hướng dẫn tính năng bàn phím để nhanh chóng làm quen với bàn phím tùy chỉnh\n• Thêm tổng quan mẫu để xem tất cả mẫu cùng một lúc\n• Cải thiện giao diện để thao tác mượt mà hơn",
+    "es": "• Se agregó un tutorial del teclado para empezar con los teclados personalizados\n• Se agregó una vista general de plantillas para ver todas las plantillas de una vez\n• Mejoras en la interfaz para un uso más fluido"
   }
 }
