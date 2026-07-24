@@ -84,6 +84,69 @@
           }
         }
       ]
+    },
+    {
+      "id": "mantouSans",
+      "displayNames": {
+        "zh-Hant": "饅頭黑體",
+        "zh-Hans": "馒头黑体",
+        "en": "Mantou Sans",
+        "ja": "Mantou Sans"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/mant0u0/MantouSans"
+      },
+      "variants": [
+        {
+          "id": "mantouSans",
+          "postScriptName": "MantouSans",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/MantouSans-Regular.ttf",
+          "fileSize": 2747616
+        }
+      ]
+    },
+    {
+      "id": "maokenAssortedSansTC",
+      "displayNames": {
+        "zh-Hant": "貓啃什錦黑",
+        "zh-Hans": "猫啃什锦黑",
+        "en": "Maoken Assorted Sans",
+        "ja": "Maoken Assorted Sans"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/Skr-ZERO/MaokenAssortedSans-TC"
+      },
+      "variants": [
+        {
+          "id": "maokenAssortedSansTC",
+          "postScriptName": "MaokenAssortedSans-TC",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/MaokenAssortedSans-TC.ttf",
+          "fileSize": 12775468
+        }
+      ]
+    },
+    {
+      "id": "cubic11",
+      "displayNames": {
+        "zh-Hant": "俐方體11號",
+        "zh-Hans": "俐方体11号",
+        "en": "Cubic 11",
+        "ja": "Cubic 11"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/ACh-K/Cubic-11"
+      },
+      "variants": [
+        {
+          "id": "cubic11",
+          "postScriptName": "Cubic_11",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Cubic_11.ttf",
+          "fileSize": 2773732
+        }
+      ]
     }
   ]
 }
