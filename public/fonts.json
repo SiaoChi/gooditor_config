@@ -147,6 +147,495 @@
           "fileSize": 2773732
         }
       ]
+    },
+    {
+      "id": "sourceHanSansTC",
+      "displayNames": {
+        "zh-Hant": "思源黑體",
+        "zh-Hans": "思源黑体",
+        "en": "Source Han Sans TC",
+        "ja": "源ノ角ゴシック"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/adobe-fonts/source-han-sans"
+      },
+      "variants": [
+        {
+          "id": "sourceHanSansTC.regular",
+          "postScriptName": "SourceHanSansTC-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/SourceHanSansTC-Regular.otf",
+          "fileSize": 16528276,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "sourceHanSansTC.medium",
+          "postScriptName": "SourceHanSansTC-Medium",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/SourceHanSansTC-Medium.otf",
+          "fileSize": 16544772,
+          "weightNames": {
+            "zh-Hant": "中等",
+            "zh-Hans": "中等",
+            "en": "Medium",
+            "ja": "ミディアム"
+          }
+        },
+        {
+          "id": "sourceHanSansTC.bold",
+          "postScriptName": "SourceHanSansTC-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/SourceHanSansTC-Bold.otf",
+          "fileSize": 16961872,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        },
+        {
+          "id": "sourceHanSansTC.heavy",
+          "postScriptName": "SourceHanSansTC-Heavy",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/SourceHanSansTC-Heavy.otf",
+          "fileSize": 17612928,
+          "weightNames": {
+            "zh-Hant": "特黑",
+            "zh-Hans": "特黑",
+            "en": "Heavy",
+            "ja": "ヘビー"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chironHeiHK",
+      "displayNames": {
+        "zh-Hant": "昭源黑體",
+        "zh-Hans": "昭源黑体",
+        "en": "Chiron Hei HK",
+        "ja": "昭源ゴシック"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/chiron-fonts/chiron-hei-hk"
+      },
+      "variants": [
+        {
+          "id": "chironHeiHK.regular",
+          "postScriptName": "ChironHeiHK-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ChironHeiHK-Regular.ttf",
+          "fileSize": 14422628,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "chironHeiHK.bold",
+          "postScriptName": "ChironHeiHK-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ChironHeiHK-Bold.ttf",
+          "fileSize": 14119692,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        },
+        {
+          "id": "chironHeiHK.heavy",
+          "postScriptName": "ChironHeiHK-Heavy",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ChironHeiHK-Heavy.ttf",
+          "fileSize": 13973316,
+          "weightNames": {
+            "zh-Hant": "特黑",
+            "zh-Hans": "特黑",
+            "en": "Heavy",
+            "ja": "ヘビー"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chironSungHK",
+      "displayNames": {
+        "zh-Hant": "昭源宋體",
+        "zh-Hans": "昭源宋体",
+        "en": "Chiron Sung HK",
+        "ja": "昭源明朝"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/chiron-fonts/chiron-sung-hk"
+      },
+      "variants": [
+        {
+          "id": "chironSungHK.regular",
+          "postScriptName": "ChironSungHK-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ChironSungHK-Regular.ttf",
+          "fileSize": 24540516,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "chironSungHK.bold",
+          "postScriptName": "ChironSungHK-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ChironSungHK-Bold.ttf",
+          "fileSize": 24528284,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chironGoRoundTC",
+      "displayNames": {
+        "zh-Hant": "昭源環方（圓體）",
+        "zh-Hans": "昭源环方（圆体）",
+        "en": "Chiron GoRound TC",
+        "ja": "昭源丸ゴシック"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/chiron-fonts/chiron-go-round-tc"
+      },
+      "variants": [
+        {
+          "id": "chironGoRoundTC.regular",
+          "postScriptName": "ChironGoRoundTC-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ChironGoRoundTC-Regular.ttf",
+          "fileSize": 24212952,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "chironGoRoundTC.bold",
+          "postScriptName": "ChironGoRoundTC-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ChironGoRoundTC-Bold.ttf",
+          "fileSize": 24276372,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lxgwWenKaiMonoTC",
+      "displayNames": {
+        "zh-Hant": "霞鶩文楷等寬",
+        "zh-Hans": "霞鹜文楷等宽",
+        "en": "LXGW WenKai Mono TC",
+        "ja": "霞鶩文楷等幅"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/lxgw/LxgwWenKaiTC"
+      },
+      "variants": [
+        {
+          "id": "lxgwWenKaiMonoTC.regular",
+          "postScriptName": "LXGWWenKaiMonoTC-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/LXGWWenKaiMonoTC-Regular.ttf",
+          "fileSize": 15277228,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "lxgwWenKaiMonoTC.medium",
+          "postScriptName": "LXGWWenKaiMonoTC-Medium",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/LXGWWenKaiMonoTC-Medium.ttf",
+          "fileSize": 15026988,
+          "weightNames": {
+            "zh-Hant": "中等",
+            "zh-Hans": "中等",
+            "en": "Medium",
+            "ja": "ミディアム"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lxgwMarkerGothic",
+      "displayNames": {
+        "zh-Hant": "霞鶩漫黑",
+        "zh-Hans": "霞鹜漫黑",
+        "en": "LXGW Marker Gothic",
+        "ja": "霞鶩マーカーゴシック"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/lxgw/LxgwMarkerGothic"
+      },
+      "variants": [
+        {
+          "id": "lxgwMarkerGothic",
+          "postScriptName": "LXGWMarkerGothic-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/LXGWMarkerGothic-Regular.ttf",
+          "fileSize": 3187360
+        }
+      ]
+    },
+    {
+      "id": "chocolateClassicalSans",
+      "displayNames": {
+        "zh-Hant": "朱古力黑體",
+        "zh-Hans": "朱古力黑体",
+        "en": "Chocolate Classical Sans",
+        "ja": "朱古力ゴシック"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/MoonlitOwen/ChocolateSans"
+      },
+      "variants": [
+        {
+          "id": "chocolateClassicalSans",
+          "postScriptName": "ChocolateClassicalSans-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ChocolateClassicalSans-Regular.ttf",
+          "fileSize": 12183000
+        }
+      ]
+    },
+    {
+      "id": "cactusClassicalSerif",
+      "displayNames": {
+        "zh-Hant": "仙人掌明體",
+        "zh-Hans": "仙人掌明体",
+        "en": "Cactus Classical Serif",
+        "ja": "仙人掌明朝"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/MoonlitOwen/CactusSerif"
+      },
+      "variants": [
+        {
+          "id": "cactusClassicalSerif",
+          "postScriptName": "CactusClassicalSerif-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/CactusClassicalSerif-Regular.ttf",
+          "fileSize": 28502932
+        }
+      ]
+    },
+    {
+      "id": "uoqMunThenKhung",
+      "displayNames": {
+        "zh-Hant": "宇文天穹",
+        "zh-Hans": "宇文天穹",
+        "en": "UoqMunThenKhung",
+        "ja": "宇文天穹"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/MoonlitOwen/ThenKhung"
+      },
+      "variants": [
+        {
+          "id": "uoqMunThenKhung",
+          "postScriptName": "UoqMunThenKhung-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/UoqMunThenKhung-Regular.ttf",
+          "fileSize": 4901688
+        }
+      ]
+    },
+    {
+      "id": "wdxlLubrifontTC",
+      "displayNames": {
+        "zh-Hant": "WDXL 滑油字 TC",
+        "zh-Hans": "WDXL 滑油字 TC",
+        "en": "WDXL Lubrifont TC",
+        "ja": "WDXL ルブリフォント TC"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/wdxllubrifonttc"
+      },
+      "variants": [
+        {
+          "id": "wdxlLubrifontTC",
+          "postScriptName": "WDXLLubrifontTC-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/WDXLLubrifontTC-Regular.ttf",
+          "fileSize": 10345168
+        }
+      ]
+    },
+    {
+      "id": "bpmfHuninn",
+      "displayNames": {
+        "zh-Hant": "注音粉圓",
+        "zh-Hans": "注音粉圆",
+        "en": "Bpmf Huninn",
+        "ja": "注音粉円"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/bpmfhuninn"
+      },
+      "variants": [
+        {
+          "id": "bpmfHuninn",
+          "postScriptName": "BpmfHuninn-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/BpmfHuninn-Regular.ttf",
+          "fileSize": 4809404
+        }
+      ]
+    },
+    {
+      "id": "bpmfIansui",
+      "displayNames": {
+        "zh-Hant": "注音芫荽",
+        "zh-Hans": "注音芫荽",
+        "en": "Bpmf Iansui",
+        "ja": "注音芫荽"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/bpmfiansui"
+      },
+      "variants": [
+        {
+          "id": "bpmfIansui",
+          "postScriptName": "BpmfIansui-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/BpmfIansui-Regular.ttf",
+          "fileSize": 7698176
+        }
+      ]
+    },
+    {
+      "id": "bpmfZihiKaiStd",
+      "displayNames": {
+        "zh-Hant": "注音字嗨標楷",
+        "zh-Hans": "注音字嗨标楷",
+        "en": "Bpmf Zihi Kai Std",
+        "ja": "注音字嗨楷書"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/bpmfzihikaistd"
+      },
+      "variants": [
+        {
+          "id": "bpmfZihiKaiStd",
+          "postScriptName": "BpmfZihiKaiStd-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/BpmfZihiKaiStd-Regular.ttf",
+          "fileSize": 17497872
+        }
+      ]
+    },
+    {
+      "id": "notoSansHK",
+      "displayNames": {
+        "zh-Hant": "思源黑體 香港",
+        "zh-Hans": "思源黑体 香港",
+        "en": "Noto Sans HK",
+        "ja": "源ノ角ゴシック 香港"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/notofonts/noto-cjk"
+      },
+      "variants": [
+        {
+          "id": "notoSansHK.regular",
+          "postScriptName": "NotoSansHK-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/NotoSansHK-Regular.otf",
+          "fileSize": 5688384,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "notoSansHK.bold",
+          "postScriptName": "NotoSansHK-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/NotoSansHK-Bold.otf",
+          "fileSize": 5840928,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        },
+        {
+          "id": "notoSansHK.black",
+          "postScriptName": "NotoSansHK-Black",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/NotoSansHK-Black.otf",
+          "fileSize": 6072180,
+          "weightNames": {
+            "zh-Hant": "特粗",
+            "zh-Hans": "特粗",
+            "en": "Black",
+            "ja": "ブラック"
+          }
+        }
+      ]
+    },
+    {
+      "id": "notoSerifHK",
+      "displayNames": {
+        "zh-Hant": "思源宋體 香港",
+        "zh-Hans": "思源宋体 香港",
+        "en": "Noto Serif HK",
+        "ja": "源ノ明朝 香港"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/notofonts/noto-cjk"
+      },
+      "variants": [
+        {
+          "id": "notoSerifHK.regular",
+          "postScriptName": "NotoSerifHK-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/NotoSerifHK-Regular.otf",
+          "fileSize": 7912760,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "notoSerifHK.bold",
+          "postScriptName": "NotoSerifHK-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/NotoSerifHK-Bold.otf",
+          "fileSize": 8231912,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        }
+      ]
     }
   ]
 }
