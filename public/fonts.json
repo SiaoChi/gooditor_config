@@ -483,6 +483,378 @@
           "fileSize": 10345168
         }
       ]
+    },
+    {
+      "id": "delaGothicOne",
+      "displayNames": {
+        "zh-Hant": "Dela 極黑體",
+        "zh-Hans": "Dela 极黑体",
+        "en": "Dela Gothic One",
+        "ja": "デラゴシック One"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/delagothicone"
+      },
+      "variants": [
+        {
+          "id": "delaGothicOne",
+          "postScriptName": "DelaGothicOne-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/DelaGothicOne-Regular.ttf",
+          "fileSize": 2487960
+        }
+      ]
+    },
+    {
+      "id": "dotGothic16",
+      "displayNames": {
+        "zh-Hant": "點陣哥德體 16",
+        "zh-Hans": "点阵哥德体 16",
+        "en": "DotGothic16",
+        "ja": "ドットゴシック16"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/dotgothic16"
+      },
+      "variants": [
+        {
+          "id": "dotGothic16",
+          "postScriptName": "DotGothic16-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/DotGothic16-Regular.ttf",
+          "fileSize": 2027048
+        }
+      ]
+    },
+    {
+      "id": "kosugiMaru",
+      "displayNames": {
+        "zh-Hant": "小杉圓體",
+        "zh-Hans": "小杉圆体",
+        "en": "Kosugi Maru",
+        "ja": "小杉丸ゴシック"
+      },
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "https://github.com/google/fonts/tree/main/apache/kosugimaru"
+      },
+      "variants": [
+        {
+          "id": "kosugiMaru",
+          "postScriptName": "KosugiMaru-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/KosugiMaru-Regular.ttf",
+          "fileSize": 3565692
+        }
+      ]
+    },
+    {
+      "id": "lxgwWenKaiTC",
+      "displayNames": {
+        "zh-Hant": "霞鶩文楷",
+        "zh-Hans": "霞鹜文楷",
+        "en": "LXGW WenKai TC",
+        "ja": "霞鶩文楷"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/lxgw/LxgwWenKaiTC"
+      },
+      "variants": [
+        {
+          "id": "lxgwWenKaiTC.light",
+          "postScriptName": "LXGWWenKaiTC-Light",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/LXGWWenKaiTC-Light.ttf",
+          "fileSize": 13767140,
+          "weightNames": {
+            "zh-Hant": "細體",
+            "zh-Hans": "细体",
+            "en": "Light",
+            "ja": "ライト"
+          }
+        },
+        {
+          "id": "lxgwWenKaiTC.regular",
+          "postScriptName": "LXGWWenKaiTC-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/LXGWWenKaiTC-Regular.ttf",
+          "fileSize": 13109228,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mochiyPopOne",
+      "displayNames": {
+        "zh-Hant": "麻糬圓體",
+        "zh-Hans": "麻糬圆体",
+        "en": "Mochiy Pop One",
+        "ja": "モチイポップ One"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/mochiypopone"
+      },
+      "variants": [
+        {
+          "id": "mochiyPopOne",
+          "postScriptName": "MochiyPopOne-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/MochiyPopOne-Regular.ttf",
+          "fileSize": 4840984
+        }
+      ]
+    },
+    {
+      "id": "poppins",
+      "displayNames": {
+        "zh-Hant": "Poppins",
+        "zh-Hans": "Poppins",
+        "en": "Poppins",
+        "ja": "Poppins"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/itfoundry/Poppins"
+      },
+      "variants": [
+        {
+          "id": "poppins.thin",
+          "postScriptName": "Poppins-Thin",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-Thin.ttf",
+          "fileSize": 161652,
+          "weightNames": {
+            "zh-Hant": "極細",
+            "zh-Hans": "极细",
+            "en": "Thin",
+            "ja": "シン"
+          }
+        },
+        {
+          "id": "poppins.extraLight",
+          "postScriptName": "Poppins-ExtraLight",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-ExtraLight.ttf",
+          "fileSize": 161456,
+          "weightNames": {
+            "zh-Hant": "特細",
+            "zh-Hans": "特细",
+            "en": "ExtraLight",
+            "ja": "エクストラライト"
+          }
+        },
+        {
+          "id": "poppins.light",
+          "postScriptName": "Poppins-Light",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-Light.ttf",
+          "fileSize": 159892,
+          "weightNames": {
+            "zh-Hant": "細體",
+            "zh-Hans": "细体",
+            "en": "Light",
+            "ja": "ライト"
+          }
+        },
+        {
+          "id": "poppins.regular",
+          "postScriptName": "Poppins-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-Regular.ttf",
+          "fileSize": 158240,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "poppins.medium",
+          "postScriptName": "Poppins-Medium",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-Medium.ttf",
+          "fileSize": 156520,
+          "weightNames": {
+            "zh-Hant": "中等",
+            "zh-Hans": "中等",
+            "en": "Medium",
+            "ja": "ミディアム"
+          }
+        },
+        {
+          "id": "poppins.semiBold",
+          "postScriptName": "Poppins-SemiBold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-SemiBold.ttf",
+          "fileSize": 155232,
+          "weightNames": {
+            "zh-Hant": "半粗",
+            "zh-Hans": "半粗",
+            "en": "SemiBold",
+            "ja": "セミボールド"
+          }
+        },
+        {
+          "id": "poppins.bold",
+          "postScriptName": "Poppins-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-Bold.ttf",
+          "fileSize": 153944,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        },
+        {
+          "id": "poppins.extraBold",
+          "postScriptName": "Poppins-ExtraBold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-ExtraBold.ttf",
+          "fileSize": 152764,
+          "weightNames": {
+            "zh-Hant": "特粗",
+            "zh-Hans": "特粗",
+            "en": "ExtraBold",
+            "ja": "エクストラボールド"
+          }
+        },
+        {
+          "id": "poppins.black",
+          "postScriptName": "Poppins-Black",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Poppins-Black.ttf",
+          "fileSize": 151396,
+          "weightNames": {
+            "zh-Hant": "特黑",
+            "zh-Hans": "特黑",
+            "en": "Black",
+            "ja": "ブラック"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rampartOne",
+      "displayNames": {
+        "zh-Hant": "Rampart 立體字",
+        "zh-Hans": "Rampart 立体字",
+        "en": "Rampart One",
+        "ja": "ランパート One"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/rampartone"
+      },
+      "variants": [
+        {
+          "id": "rampartOne",
+          "postScriptName": "RampartOne-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/RampartOne-Regular.ttf",
+          "fileSize": 3644956
+        }
+      ]
+    },
+    {
+      "id": "stick",
+      "displayNames": {
+        "zh-Hant": "Stick 棒體",
+        "zh-Hans": "Stick 棒体",
+        "en": "Stick",
+        "ja": "ステッキ"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/stick"
+      },
+      "variants": [
+        {
+          "id": "stick",
+          "postScriptName": "Stick-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Stick-Regular.ttf",
+          "fileSize": 2171556
+        }
+      ]
+    },
+    {
+      "id": "yuseiMagic",
+      "displayNames": {
+        "zh-Hant": "油性麥克筆",
+        "zh-Hans": "油性马克笔",
+        "en": "Yusei Magic",
+        "ja": "油性マジック"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/yuseimagic"
+      },
+      "variants": [
+        {
+          "id": "yuseiMagic",
+          "postScriptName": "YuseiMagic-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/YuseiMagic-Regular.ttf",
+          "fileSize": 3134812
+        }
+      ]
+    },
+    {
+      "id": "zenMaruGothic",
+      "displayNames": {
+        "zh-Hant": "Zen 圓黑體",
+        "zh-Hans": "Zen 圆黑体",
+        "en": "Zen Maru Gothic",
+        "ja": "ゼンマルゴシック"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/googlefonts/zen-marugothic"
+      },
+      "variants": [
+        {
+          "id": "zenMaruGothic.light",
+          "postScriptName": "ZenMaruGothic-Light",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ZenMaruGothic-Light.ttf",
+          "fileSize": 3723328,
+          "weightNames": {
+            "zh-Hant": "細體",
+            "zh-Hans": "细体",
+            "en": "Light",
+            "ja": "ライト"
+          }
+        },
+        {
+          "id": "zenMaruGothic.regular",
+          "postScriptName": "ZenMaruGothic-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ZenMaruGothic-Regular.ttf",
+          "fileSize": 3832732,
+          "weightNames": {
+            "zh-Hant": "常規",
+            "zh-Hans": "常规",
+            "en": "Regular",
+            "ja": "レギュラー"
+          }
+        },
+        {
+          "id": "zenMaruGothic.medium",
+          "postScriptName": "ZenMaruGothic-Medium",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ZenMaruGothic-Medium.ttf",
+          "fileSize": 3810920,
+          "weightNames": {
+            "zh-Hant": "中等",
+            "zh-Hans": "中等",
+            "en": "Medium",
+            "ja": "ミディアム"
+          }
+        },
+        {
+          "id": "zenMaruGothic.bold",
+          "postScriptName": "ZenMaruGothic-Bold",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/ZenMaruGothic-Bold.ttf",
+          "fileSize": 3778984,
+          "weightNames": {
+            "zh-Hant": "粗體",
+            "zh-Hans": "粗体",
+            "en": "Bold",
+            "ja": "ボールド"
+          }
+        }
+      ]
     }
   ]
 }
