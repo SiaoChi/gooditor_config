@@ -897,6 +897,48 @@
           "fileSize": 7688924
         }
       ]
+    },
+    {
+      "id": "bpmfHuninn",
+      "displayNames": {
+        "zh-Hant": "注音粉圓",
+        "zh-Hans": "注音粉圆",
+        "en": "Bpmf Huninn",
+        "ja": "注音粉円"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/bpmfhuninn"
+      },
+      "variants": [
+        {
+          "id": "bpmfHuninn",
+          "postScriptName": "BpmfHuninn-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/BpmfHuninn-Regular.ttf",
+          "fileSize": 4799832
+        }
+      ]
+    },
+    {
+      "id": "bpmfZihiKaiStd",
+      "displayNames": {
+        "zh-Hant": "注音字嗨標楷",
+        "zh-Hans": "注音字嗨标楷",
+        "en": "Bpmf Zihi Kai Std",
+        "ja": "注音字嗨楷書"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/bpmfzihikaistd"
+      },
+      "variants": [
+        {
+          "id": "bpmfZihiKaiStd",
+          "postScriptName": "BpmfZihiKaiStd-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/BpmfZihiKaiStd-Regular.ttf",
+          "fileSize": 17497872
+        }
+      ]
     }
   ]
 }
