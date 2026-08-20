@@ -876,6 +876,27 @@
           "fileSize": 4378804
         }
       ]
+    },
+    {
+      "id": "bpmfIansui",
+      "displayNames": {
+        "zh-Hant": "注音芫荽",
+        "zh-Hans": "注音芫荽",
+        "en": "Bpmf Iansui",
+        "ja": "注音芫荽"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/bpmfiansui"
+      },
+      "variants": [
+        {
+          "id": "bpmfIansui",
+          "postScriptName": "BpmfIansui-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/BpmfIansui-Regular.ttf",
+          "fileSize": 7688924
+        }
+      ]
     }
   ]
 }
