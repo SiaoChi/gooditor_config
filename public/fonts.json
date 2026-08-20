@@ -855,6 +855,27 @@
           }
         }
       ]
+    },
+    {
+      "id": "hachiMaruPop",
+      "displayNames": {
+        "zh-Hant": "八〇手寫圓體",
+        "zh-Hans": "八〇手写圆体",
+        "en": "Hachi Maru Pop",
+        "ja": "はちまるポップ"
+      },
+      "license": {
+        "name": "SIL Open Font License 1.1",
+        "url": "https://github.com/google/fonts/tree/main/ofl/hachimarupop"
+      },
+      "variants": [
+        {
+          "id": "hachiMaruPop",
+          "postScriptName": "HachiMaruPop-Regular",
+          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/HachiMaruPop-Regular.ttf",
+          "fileSize": 4378804
+        }
+      ]
     }
   ]
 }
