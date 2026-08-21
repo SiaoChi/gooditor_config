@@ -1,16 +1,16 @@
 {
   "ios_min_version": "1.0.5",
-  "ios_latest_version": "1.0.10",
+  "ios_latest_version": "1.0.14",
   "update_description": {
-    "zh-TW": "• 新增鍵盤功能教學，快速上手自訂鍵盤\n• 新增模板總覽，一次瀏覽所有模板\n• 介面優化，操作更順手",
-    "zh-Hans": "• 新增键盘功能教学，快速上手自定义键盘\n• 新增模板总览，一次浏览所有模板\n• 界面优化，操作更顺手",
-    "en": "• Added a keyboard tutorial to help you get started with custom keyboards\n• Added a template overview to browse all templates at once\n• Interface improvements for smoother operation",
-    "ja": "• キーボード機能のチュートリアルを追加し、カスタムキーボードをすぐに使いこなせます\n• テンプレート一覧を追加し、すべてのテンプレートを一度に閲覧できます\n• インターフェースを最適化し、より使いやすくなりました",
-    "ko": "• 키보드 기능 튜토리얼을 추가하여 커스텀 키보드를 빠르게 시작할 수 있습니다\n• 템플릿 모아보기를 추가하여 모든 템플릿을 한 번에 둘러볼 수 있습니다\n• 인터페이스를 개선하여 조작이 더 편해졌습니다",
-    "fr": "• Ajout d'un tutoriel sur le clavier pour prendre en main les claviers personnalisés\n• Ajout d'un aperçu des modèles pour parcourir tous les modèles d'un coup\n• Améliorations de l'interface pour une utilisation plus fluide",
-    "de": "• Neues Tastatur-Tutorial für den schnellen Einstieg in benutzerdefinierte Tastaturen\n• Neue Vorlagenübersicht, um alle Vorlagen auf einen Blick zu durchsuchen\n• Oberflächenverbesserungen für eine reibungslosere Bedienung",
-    "th": "• เพิ่มบทแนะนำฟีเจอร์คีย์บอร์ด เริ่มใช้คีย์บอร์ดที่กำหนดเองได้อย่างรวดเร็ว\n• เพิ่มภาพรวมเทมเพลต เรียกดูเทมเพลตทั้งหมดได้ในครั้งเดียว\n• ปรับปรุงอินเทอร์เฟซ ใช้งานได้ลื่นไหลยิ่งขึ้น",
-    "vi": "• Thêm hướng dẫn tính năng bàn phím để nhanh chóng làm quen với bàn phím tùy chỉnh\n• Thêm tổng quan mẫu để xem tất cả mẫu cùng một lúc\n• Cải thiện giao diện để thao tác mượt mà hơn",
-    "es": "• Se agregó un tutorial del teclado para empezar con los teclados personalizados\n• Se agregó una vista general de plantillas para ver todas las plantillas de una vez\n• Mejoras en la interfaz para un uso más fluido"
+    "zh-TW": "• 新增 27 款開源雲端字體，手寫、圓體、注音風格一次擁有\n• 字體庫大幅擴充，中日文排版有更多選擇",
+    "zh-Hans": "• 新增 27 款开源云端字体，手写、圆体、注音风格一次拥有\n• 字体库大幅扩充，中日文排版有更多选择",
+    "en": "• Added 27 open-source cloud fonts, including handwriting, rounded, and Bopomofo styles\n• A much larger font library gives you more choices for Chinese and Japanese text",
+    "ja": "• オープンソースのクラウドフォントを 27 書体追加（手書き・丸ゴシック・注音スタイル）\n• フォントライブラリが大幅に拡充され、中国語・日本語の表現の幅が広がりました",
+    "ko": "• 오픈 소스 클라우드 글꼴 27종 추가 (손글씨·둥근 고딕·주음 스타일)\n• 글꼴 라이브러리가 크게 확장되어 중국어·일본어 표현의 선택지가 늘었습니다",
+    "fr": "• Ajout de 27 polices open source dans le cloud : manuscrites, arrondies et bopomofo\n• Une bibliothèque de polices bien plus riche pour vos textes en chinois et en japonais",
+    "de": "• 27 neue Open-Source-Cloud-Schriften ergänzt – Handschrift, Rundschrift und Bopomofo\n• Deutlich größere Schriftbibliothek für mehr Auswahl bei chinesischen und japanischen Texten",
+    "th": "• เพิ่มฟอนต์โอเพนซอร์สบนคลาวด์ 27 แบบ ทั้งลายมือ ตัวกลม และแบบจู้อิน\n• คลังฟอนต์ขยายใหญ่ขึ้นมาก มีตัวเลือกสำหรับข้อความจีนและญี่ปุ่นมากขึ้น",
+    "vi": "• Thêm 27 phông chữ nguồn mở trên đám mây: viết tay, bo tròn và kiểu chú âm\n• Thư viện phông chữ mở rộng đáng kể, nhiều lựa chọn hơn cho văn bản tiếng Trung và tiếng Nhật",
+    "es": "• Se añadieron 27 fuentes de código abierto en la nube: manuscritas, redondeadas y bopomofo\n• Una biblioteca de fuentes mucho más amplia para tus textos en chino y japonés"
   }
 }
