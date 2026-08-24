@@ -1,16 +1,16 @@
 {
   "ios_min_version": "1.0.5",
-  "ios_latest_version": "1.0.16",
+  "ios_latest_version": "1.0.14",
   "update_description": {
-    "zh-TW": "• 全新視覺：黃色主題、印刷格線畫布、線條圖示\n• 新增 5 款內建模板：白底方框、描邊、硬陰影、螢光筆、弧形\n• 作品會自動儲存，下次開啟自動還原\n• 重新設計新手引導與升級頁面；新增「重看介紹」",
-    "zh-Hans": "• 全新视觉：黄色主题、印刷网格画布、线条图标\n• 新增 5 款内置模板：白底方框、描边、硬阴影、荧光笔、弧形\n• 作品会自动保存，下次打开自动恢复\n• 重新设计新手引导与升级页面；新增「重看介绍」",
-    "en": "• Fresh look: yellow theme, print-grid canvas, line icons\n• 5 new built-in templates: white box, outline, hard shadow, highlighter, arc\n• Your work is saved automatically and restored on next launch\n• Redesigned onboarding and upgrade screens; new \"Replay Intro\"",
-    "ja": "• デザインを一新：イエローテーマ、方眼キャンバス、ラインアイコン\n• 内蔵テンプレートを 5 種追加：白ボックス・アウトライン・ハードシャドウ・マーカー・アーチ\n• 作業内容は自動保存され、次回起動時に復元されます\n• オンボーディングとアップグレード画面を刷新、「イントロを再生」を追加",
-    "ko": "• 새로운 디자인: 옐로 테마, 모눈 캔버스, 라인 아이콘\n• 내장 템플릿 5종 추가: 흰 박스·아웃라인·하드 섀도·형광펜·아치형\n• 작업 내용이 자동 저장되어 다음 실행 시 복원됩니다\n• 온보딩과 업그레이드 화면을 새롭게 디자인, \"인트로 다시 보기\" 추가",
-    "fr": "• Nouveau look : thème jaune, canevas quadrillé, icônes filaires\n• 5 nouveaux modèles intégrés : boîte blanche, contour, ombre franche, surligneur, arc\n• Votre travail est enregistré automatiquement et restauré au prochain lancement\n• Écrans d'accueil et de mise à niveau repensés ; nouveau « Revoir l'intro »",
-    "de": "• Frischer Look: gelbes Design, Rasterpapier-Canvas, Linien-Icons\n• 5 neue integrierte Vorlagen: weiße Box, Umriss, harter Schatten, Textmarker, Bogen\n• Deine Arbeit wird automatisch gespeichert und beim nächsten Start wiederhergestellt\n• Onboarding- und Upgrade-Bildschirme neu gestaltet; neu: „Intro erneut ansehen“",
-    "th": "• โฉมใหม่: ธีมสีเหลือง แคนวาสตารางพิมพ์ และไอคอนแบบเส้น\n• เพิ่มเทมเพลตในตัว 5 แบบ: กล่องขาว เส้นขอบ เงาเข้ม ปากกาเน้นข้อความ และตัวโค้ง\n• งานของคุณจะถูกบันทึกอัตโนมัติและกู้คืนเมื่อเปิดครั้งถัดไป\n• ออกแบบหน้าแนะนำและหน้าอัปเกรดใหม่ พร้อมปุ่ม \"ดูอินโทรอีกครั้ง\"",
-    "vi": "• Diện mạo mới: chủ đề vàng, canvas kẻ ô in ấn, biểu tượng nét mảnh\n• 5 mẫu có sẵn mới: hộp trắng, viền chữ, bóng đổ đậm, bút dạ quang, chữ uốn cong\n• Tác phẩm được lưu tự động và khôi phục ở lần mở tiếp theo\n• Thiết kế lại màn hình giới thiệu và nâng cấp; thêm \"Xem lại phần giới thiệu\"",
-    "es": "• Nuevo aspecto: tema amarillo, lienzo de cuadrícula de impresión e iconos de línea\n• 5 nuevas plantillas integradas: caja blanca, contorno, sombra dura, resaltador y arco\n• Tu trabajo se guarda automáticamente y se restaura al volver a abrir la app\n• Pantallas de bienvenida y mejora rediseñadas; nuevo «Volver a ver la intro»"
+    "zh-TW": "• 新增 27 款開源雲端字體，手寫、圓體、注音風格一次擁有\n• 字體庫大幅擴充，中日文排版有更多選擇",
+    "zh-Hans": "• 新增 27 款开源云端字体，手写、圆体、注音风格一次拥有\n• 字体库大幅扩充，中日文排版有更多选择",
+    "en": "• Added 27 open-source cloud fonts, including handwriting, rounded, and Bopomofo styles\n• A much larger font library gives you more choices for Chinese and Japanese text",
+    "ja": "• オープンソースのクラウドフォントを 27 書体追加（手書き・丸ゴシック・注音スタイル）\n• フォントライブラリが大幅に拡充され、中国語・日本語の表現の幅が広がりました",
+    "ko": "• 오픈 소스 클라우드 글꼴 27종 추가 (손글씨·둥근 고딕·주음 스타일)\n• 글꼴 라이브러리가 크게 확장되어 중국어·일본어 표현의 선택지가 늘었습니다",
+    "fr": "• Ajout de 27 polices open source dans le cloud : manuscrites, arrondies et bopomofo\n• Une bibliothèque de polices bien plus riche pour vos textes en chinois et en japonais",
+    "de": "• 27 neue Open-Source-Cloud-Schriften ergänzt – Handschrift, Rundschrift und Bopomofo\n• Deutlich größere Schriftbibliothek für mehr Auswahl bei chinesischen und japanischen Texten",
+    "th": "• เพิ่มฟอนต์โอเพนซอร์สบนคลาวด์ 27 แบบ ทั้งลายมือ ตัวกลม และแบบจู้อิน\n• คลังฟอนต์ขยายใหญ่ขึ้นมาก มีตัวเลือกสำหรับข้อความจีนและญี่ปุ่นมากขึ้น",
+    "vi": "• Thêm 27 phông chữ nguồn mở trên đám mây: viết tay, bo tròn và kiểu chú âm\n• Thư viện phông chữ mở rộng đáng kể, nhiều lựa chọn hơn cho văn bản tiếng Trung và tiếng Nhật",
+    "es": "• Se añadieron 27 fuentes de código abierto en la nube: manuscritas, redondeadas y bopomofo\n• Una biblioteca de fuentes mucho más amplia para tus textos en chino y japonés"
   }
 }
