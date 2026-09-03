@@ -1,16 +1,16 @@
 {
-  "ios_min_version": "1.0.14",
-  "ios_latest_version": "1.0.14",
+  "ios_min_version": "1.0.18",
+  "ios_latest_version": "1.0.18",
   "update_description": {
-    "zh-TW": "• 新增 27 款開源雲端字體，手寫、圓體、注音風格一次擁有\n• 字體庫大幅擴充，中日文排版有更多選擇",
-    "zh-Hans": "• 新增 27 款开源云端字体，手写、圆体、注音风格一次拥有\n• 字体库大幅扩充，中日文排版有更多选择",
-    "en": "• Added 27 open-source cloud fonts, including handwriting, rounded, and Bopomofo styles\n• A much larger font library gives you more choices for Chinese and Japanese text",
-    "ja": "• オープンソースのクラウドフォントを 27 書体追加（手書き・丸ゴシック・注音スタイル）\n• フォントライブラリが大幅に拡充され、中国語・日本語の表現の幅が広がりました",
-    "ko": "• 오픈 소스 클라우드 글꼴 27종 추가 (손글씨·둥근 고딕·주음 스타일)\n• 글꼴 라이브러리가 크게 확장되어 중국어·일본어 표현의 선택지가 늘었습니다",
-    "fr": "• Ajout de 27 polices open source dans le cloud : manuscrites, arrondies et bopomofo\n• Une bibliothèque de polices bien plus riche pour vos textes en chinois et en japonais",
-    "de": "• 27 neue Open-Source-Cloud-Schriften ergänzt – Handschrift, Rundschrift und Bopomofo\n• Deutlich größere Schriftbibliothek für mehr Auswahl bei chinesischen und japanischen Texten",
-    "th": "• เพิ่มฟอนต์โอเพนซอร์สบนคลาวด์ 27 แบบ ทั้งลายมือ ตัวกลม และแบบจู้อิน\n• คลังฟอนต์ขยายใหญ่ขึ้นมาก มีตัวเลือกสำหรับข้อความจีนและญี่ปุ่นมากขึ้น",
-    "vi": "• Thêm 27 phông chữ nguồn mở trên đám mây: viết tay, bo tròn và kiểu chú âm\n• Thư viện phông chữ mở rộng đáng kể, nhiều lựa chọn hơn cho văn bản tiếng Trung và tiếng Nhật",
-    "es": "• Se añadieron 27 fuentes de código abierto en la nube: manuscritas, redondeadas y bopomofo\n• Una biblioteca de fuentes mucho más amplia para tus textos en chino y japonés"
+    "zh-TW": "• 新增繁體中文開源字體\n• 版面優化",
+    "zh-Hans": "• 新增繁体中文开源字体\n• 版面优化",
+    "en": "• Added open-source Traditional Chinese fonts\n• Layout improvements",
+    "ja": "• 繁体字中国語のオープンソースフォントを追加\n• レイアウトを最適化",
+    "ko": "• 번체 중국어 오픈 소스 글꼴 추가\n• 레이아웃 최적화",
+    "fr": "• Ajout de polices open source en chinois traditionnel\n• Optimisation de la mise en page",
+    "de": "• Open-Source-Schriften für traditionelles Chinesisch ergänzt\n• Layout optimiert",
+    "th": "• เพิ่มฟอนต์โอเพนซอร์สภาษาจีนตัวเต็ม\n• ปรับปรุงเลย์เอาต์",
+    "vi": "• Thêm phông chữ nguồn mở tiếng Trung phồn thể\n• Tối ưu bố cục",
+    "es": "• Se añadieron fuentes de código abierto en chino tradicional\n• Diseño de página optimizado"
   }
 }
