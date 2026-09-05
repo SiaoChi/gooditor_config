@@ -1,16 +1,16 @@
 {
-  "ios_min_version": "1.0.18",
-  "ios_latest_version": "1.0.18",
+  "ios_min_version": "1.0.19",
+  "ios_latest_version": "1.0.19",
   "update_description": {
-    "zh-TW": "• 新增繁體中文開源字體\n• 版面優化",
-    "zh-Hans": "• 新增繁体中文开源字体\n• 版面优化",
-    "en": "• Added open-source Traditional Chinese fonts\n• Layout improvements",
-    "ja": "• 繁体字中国語のオープンソースフォントを追加\n• レイアウトを最適化",
-    "ko": "• 번체 중국어 오픈 소스 글꼴 추가\n• 레이아웃 최적화",
-    "fr": "• Ajout de polices open source en chinois traditionnel\n• Optimisation de la mise en page",
-    "de": "• Open-Source-Schriften für traditionelles Chinesisch ergänzt\n• Layout optimiert",
-    "th": "• เพิ่มฟอนต์โอเพนซอร์สภาษาจีนตัวเต็ม\n• ปรับปรุงเลย์เอาต์",
-    "vi": "• Thêm phông chữ nguồn mở tiếng Trung phồn thể\n• Tối ưu bố cục",
-    "es": "• Se añadieron fuentes de código abierto en chino tradicional\n• Diseño de página optimizado"
+    "zh-TW": "• 新增終身買斷方案，一次付費永久解鎖\n• 介面優化",
+    "zh-Hans": "• 新增终身买断方案，一次付费永久解锁\n• 界面优化",
+    "en": "• Added lifetime plan — pay once, unlock forever\n• UI improvements",
+    "ja": "• 買い切りプランを追加、一度の支払いでずっと使える\n• UIを最適化",
+    "ko": "• 평생 이용권 추가, 한 번 결제로 평생 사용\n• UI 개선",
+    "fr": "• Ajout du plan à vie — un seul paiement, accès permanent\n• Améliorations de l'interface",
+    "de": "• Lebenslang-Plan hinzugefügt — einmal zahlen, für immer nutzen\n• UI-Verbesserungen",
+    "th": "• เพิ่มแผนตลอดชีพ จ่ายครั้งเดียวใช้ได้ตลอดไป\n• ปรับปรุง UI",
+    "vi": "• Thêm gói trọn đời — thanh toán một lần, dùng mãi mãi\n• Cải thiện giao diện",
+    "es": "• Se añadió el plan de por vida: paga una vez, desbloquea para siempre\n• Mejoras de interfaz"
   }
 }
