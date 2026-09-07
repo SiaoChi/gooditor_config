@@ -2,15 +2,15 @@
   "ios_min_version": "1.0.19",
   "ios_latest_version": "1.0.19",
   "update_description": {
-    "zh-TW": "• 新增模板－靈感牆\n• 新增終身買斷方案，一次付費永久解鎖\n• 介面優化",
-    "zh-Hans": "• 新增模板－灵感墙\n• 新增终身买断方案，一次付费永久解锁\n• 界面优化",
-    "en": "• New template: Inspiration Wall\n• Added lifetime plan — pay once, unlock forever\n• UI improvements",
-    "ja": "• 新テンプレート「インスピレーションウォール」を追加\n• 買い切りプランを追加、一度の支払いでずっと使える\n• UIを最適化",
-    "ko": "• 새 템플릿 '영감 월' 추가\n• 평생 이용권 추가, 한 번 결제로 평생 사용\n• UI 개선",
-    "fr": "• Nouveau modèle : Mur d'inspiration\n• Ajout du plan à vie — un seul paiement, accès permanent\n• Améliorations de l'interface",
-    "de": "• Neue Vorlage: Inspirationswand\n• Lebenslang-Plan hinzugefügt — einmal zahlen, für immer nutzen\n• UI-Verbesserungen",
-    "th": "• เทมเพลตใหม่: กำแพงแรงบันดาลใจ\n• เพิ่มแผนตลอดชีพ จ่ายครั้งเดียวใช้ได้ตลอดไป\n• ปรับปรุง UI",
-    "vi": "• Mẫu mới: Tường cảm hứng\n• Thêm gói trọn đời — thanh toán một lần, dùng mãi mãi\n• Cải thiện giao diện",
-    "es": "• Nueva plantilla: Muro de inspiración\n• Se añadió el plan de por vida: paga una vez, desbloquea para siempre\n• Mejoras de interfaz"
+    "zh-TW": "• 新增模板－靈感牆\n• 介面優化",
+    "zh-Hans": "• 新增模板－灵感墙\n• 界面优化",
+    "en": "• New template: Inspiration Wall\n• UI improvements",
+    "ja": "• 新テンプレート「インスピレーションウォール」を追加\n• UIを最適化",
+    "ko": "• 새 템플릿 '영감 월' 추가\n• UI 개선",
+    "fr": "• Nouveau modèle : Mur d'inspiration\n• Améliorations de l'interface",
+    "de": "• Neue Vorlage: Inspirationswand\n• UI-Verbesserungen",
+    "th": "• เทมเพลตใหม่: กำแพงแรงบันดาลใจ\n• ปรับปรุง UI",
+    "vi": "• Mẫu mới: Tường cảm hứng\n• Cải thiện giao diện",
+    "es": "• Nueva plantilla: Muro de inspiración\n• Mejoras de interfaz"
   }
 }
