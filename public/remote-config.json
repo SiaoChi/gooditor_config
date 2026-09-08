@@ -1,16 +1,16 @@
 {
   "ios_min_version": "1.0.19",
-  "ios_latest_version": "1.0.19",
+  "ios_latest_version": "1.0.20",
   "update_description": {
-    "zh-TW": "• 新增模板－靈感牆\n• 介面優化",
-    "zh-Hans": "• 新增模板－灵感墙\n• 界面优化",
-    "en": "• New template: Inspiration Wall\n• UI improvements",
-    "ja": "• 新テンプレート「インスピレーションウォール」を追加\n• UIを最適化",
-    "ko": "• 새 템플릿 '영감 월' 추가\n• UI 개선",
-    "fr": "• Nouveau modèle : Mur d'inspiration\n• Améliorations de l'interface",
-    "de": "• Neue Vorlage: Inspirationswand\n• UI-Verbesserungen",
-    "th": "• เทมเพลตใหม่: กำแพงแรงบันดาลใจ\n• ปรับปรุง UI",
-    "vi": "• Mẫu mới: Tường cảm hứng\n• Cải thiện giao diện",
-    "es": "• Nueva plantilla: Muro de inspiración\n• Mejoras de interfaz"
+    "zh-TW": "• 靈感牆新增更多模板設計\n• 新增自訂 iPhone 螢幕小工具",
+    "zh-Hans": "• 灵感墙新增更多模板设计\n• 新增自定义 iPhone 屏幕小组件",
+    "en": "• More Inspiration Wall template designs\n• New customizable iPhone home screen widgets",
+    "ja": "• インスピレーションウォールのテンプレートデザインを追加\n• カスタマイズ可能なiPhoneウィジェットを追加",
+    "ko": "• 영감 월 템플릿 디자인 추가\n• 커스텀 iPhone 홈 화면 위젯 추가",
+    "fr": "• Nouveaux modèles pour le Mur d'inspiration\n• Nouveaux widgets personnalisables pour l'écran d'accueil iPhone",
+    "de": "• Weitere Vorlagen-Designs für die Inspirationswand\n• Neue anpassbare iPhone-Home-Bildschirm-Widgets",
+    "th": "• เพิ่มดีไซน์เทมเพลตใหม่สำหรับกำแพงแรงบันดาลใจ\n• เพิ่มวิดเจ็ตหน้าจอ iPhone แบบกำหนดเอง",
+    "vi": "• Thêm nhiều mẫu thiết kế cho Tường cảm hứng\n• Thêm tiện ích màn hình iPhone tùy chỉnh",
+    "es": "• Más diseños de plantillas para el Muro de inspiración\n• Nuevos widgets personalizables para la pantalla de inicio del iPhone"
   }
 }
