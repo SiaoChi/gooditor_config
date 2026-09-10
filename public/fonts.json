@@ -128,27 +128,6 @@
       ]
     },
     {
-      "id": "cubic11",
-      "displayNames": {
-        "zh-Hant": "俐方體11號",
-        "zh-Hans": "俐方体11号",
-        "en": "Cubic 11",
-        "ja": "Cubic 11"
-      },
-      "license": {
-        "name": "SIL Open Font License 1.1",
-        "url": "https://github.com/ACh-K/Cubic-11"
-      },
-      "variants": [
-        {
-          "id": "cubic11",
-          "postScriptName": "Cubic_11",
-          "fileURL": "https://chichigou-website-bucket.s3.amazonaws.com/gooditor/Cubic_11.ttf",
-          "fileSize": 2773732
-        }
-      ]
-    },
-    {
       "id": "sourceHanSansTC",
       "displayNames": {
         "zh-Hant": "思源黑體",
